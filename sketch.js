@@ -26,7 +26,7 @@ let pontosDoOponente = 0;
 let colidiu = false;
 
 function setup() {
-  createCanvas(600, 400);
+  createCanvas(1000, 800);
 }
 
 function draw() {
